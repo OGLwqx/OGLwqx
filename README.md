@@ -23,8 +23,7 @@
 ## Stats
 
 <div align="center">
-
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OGLwqx&theme=aura_dark)
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OGLwqx&theme=aura_dark)<br/>
-    ![](https://github-readme-streak-stats.herokuapp.com?user=OGLwqx&theme=dracula)]
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OGLwqx&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OGLwqx&theme=aura_dark)<br/>
+![](https://github-readme-streak-stats.herokuapp.com?user=OGLwqx&theme=dracula)]
 </div>
