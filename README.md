@@ -25,7 +25,7 @@
 <div align="center">
     
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OGLwqx&theme=aura_dark)
-![](https://wakatime.com/share/@d2nil/93887ec1-a884-4858-9583-f91ad0d205a3.svg)
+![](https://wakatime.com/share/@d2nil/148c176f-7316-41c7-99d2-004e6768283f.png)
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OGLwqx&theme=aura_dark)
 ![](https://github-readme-streak-stats.herokuapp.com?user=OGLwqx&theme=dracula) -->
     
